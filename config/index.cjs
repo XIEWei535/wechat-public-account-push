@@ -24,7 +24,7 @@ const USER_CONFIG = {
       id: 'o2Wah6YUiUZ6DkIsgf0vq1atVPuc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       //useTemplateId: 'PKMFdjnmQnvCb67BlrnkmStNDojbDYFNlO5HV5T3D1k',
-      useTemplateId: 'SOLwnIQn8SYSHgyEwOa3jxOXsd9gGx34CoCpBbm6guI',
+      useTemplateId: 'vC6OUbOMSWWKq1prAGR4gKO66qnNNngCeWMYUUgG2Wk	',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-09',
       festivals: [
@@ -34,7 +34,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '李四', year: '1996', date: '09-31',
+          type: '生日', name: '李四', year: '1993', date: '10-09',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '08-04',
